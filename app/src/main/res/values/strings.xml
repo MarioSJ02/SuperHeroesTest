@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string-array name="colores">
+        <item>Elige un color</item>
+        <item>Rojo y Amarillo</item>
+        <item>Rojo y Azul</item>
+        <item>Plata</item>
+        <item>Azul</item>
+    </string-array>
+    <string name="Enviar">Enviar</string>
+    <string name="p1">¿Que SuperPoder te gustaria tener?</string>
+    <string name="p2">¿Que color de traje te gustaria tener?</string>
+    <string name="tv3">Selecciona los que mejor te describan</string>
+    <string name="guardar">Guardar</string>
+    <string name="introName">Introduce tu nombre:</string>
+    <string name="ironman">Volar</string>
+    <string name="spiderman">Poder trepar por las paredes</string>
+    <string name="strange">Control absoluto de magia</string>
+    <string name="thor">El poder del trueno</string>
+
+</resources>
